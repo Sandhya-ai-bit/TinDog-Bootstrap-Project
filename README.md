@@ -3,7 +3,7 @@
 A modern and responsive landing page for a fictional dog-dating app, built using HTML5, CSS3, and Bootstrap 5, featuring a clean layout, custom sections, and responsive grid design.
 
 ## 🌐 Live Demo
-🔗 (https://github.com/Sandhya-ai-bit/TinDog-Bootstrap-Project.git)
+🔗 https://sandhya-ai-bit.github.io/TinDog-Bootstrap-Project/
 
 ## 🚀 Features
 - Fully responsive design (mobile, tablet, desktop)
