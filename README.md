@@ -52,7 +52,7 @@ TinDog-Bootstrap-Project/
 
 ▶️ Getting Started
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Sandhya-ai-bit/TinDog-Bootstrap-Project.git
 
 2. Open index.html in your preferred web browser.
 
