@@ -21,18 +21,18 @@ A modern and responsive landing page for a fictional dog-dating app, built using
 
 ## 📂 Project Structure
 
-TinDog/
-│── css/
-│ ├── style.css
-│── images/
-│ ├── iphone.png
-│ ├── dog-img.jpg
-│ ├── bizinsider.png
-│ ├── mashable.png
-│ ├── techcrunch.png
-│ ├── tnw.png
-│── index.html
-│── README.md
+TinDog-Bootstrap-Project/
+├── css/
+│   └── style.css
+├── images/
+│   ├── iphone.png
+│   ├── dog-img.jpg
+│   ├── bizinsider.png
+│   ├── mashable.png
+│   ├── techcrunch.png
+│   └── tnw.png
+├── index.html
+└── README.md
 
 📸 Preview
 
